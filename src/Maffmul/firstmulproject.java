@@ -6,5 +6,6 @@ public class firstmulproject {
         System.out.println("java is boring");
         System.out.println("but trying to make fun");
         System.out.println("Emuye is fat");
+        System.out.println("ccvvnnm");
     }
 }
