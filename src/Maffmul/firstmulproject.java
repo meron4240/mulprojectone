@@ -5,5 +5,6 @@ public class firstmulproject {
         System.out.println("binny is Smart");
         System.out.println("java is boring");
         System.out.println("but trying to make fun");
+        System.out.println("trw");
     }
 }
